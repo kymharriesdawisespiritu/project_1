@@ -1,0 +1,21 @@
+* {
+  border: 0px solid black;
+  padding: 0;
+  margin: 0;
+}
+header {
+  background-image: url(./images/bgimg.jpg);
+  max-resolution: 5px;
+}
+figure .images {
+  height: 150px;
+}
+nav li {
+  border-radius: 25%;
+  background-color: white;
+  list-style: none;
+  font-size: larger;
+}
+li a {
+  color: black;
+}
