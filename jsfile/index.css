@@ -1,0 +1,14 @@
+* {
+  margin-top: 1px solid black;
+}
+.card {
+  border-radius: 5px;
+  box-shadow: 5px 10px 2px;
+}
+li {
+  list-style: none;
+}
+.screen {
+  margin: 1px solid black;
+  color: aqua;
+}
